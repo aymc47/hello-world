@@ -1,2 +1,2 @@
 # hello-world
-first step test repsitory of my git-hub learning
+As a first step, a test repsitory of my git-hub learning be made.
